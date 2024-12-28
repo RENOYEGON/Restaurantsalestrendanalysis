@@ -1,4 +1,4 @@
-### Background and Overview:
+### Project Background and Overview
 The analysis evaluates the restaurant's sales trends, top-performing items, and overall revenue contributions from April 2022 to March 2023. Key metrics include total monthly sales, item-level performance by revenue and quantity, and revenue contributions segmented by item type.
 
 ---
